@@ -3,7 +3,7 @@
 ###  DATE: 22-05-2026
 ###  NAME: Akshaay Vardhan S
 ###  ROLL NO : 212224220007
-###  DEPARTMENT: B.TECH IT
+###  DEPARTMENT: B.Tech IT
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
